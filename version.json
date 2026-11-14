@@ -1,7 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/DavidZ1998/AeroTransit-Releases/releases/download/v1.0.0/AeroTransit-v1.0.0.apk",
-  "changelog": "Első kiadás: .",
-  "mandatory": false
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/DavidZ1998/AeroTransit-Releases/releases/download/v1.1.0/AeroTransit-v1.1.0.apk",
+  "releaseNotes": "• Gyorsabb Nap/Hold tranzit számítás\n• Új katonai és különleges festés jelvények\n• Javított háttér TTS stabilitás"
 }
