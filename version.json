@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/DavidZ1998/AeroTransit-Releases/releases/download/v1.5.0/AeroTransit-v1.5.0.apk",
+  "versionCode": 6,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/DavidZ1998/AeroTransit-Releases/releases/download/v1.6.0/AeroTransit-v1.6.0.apk",
   "releaseNotes": "• Gyorsabb Nap/Hold tranzit számítás\n• Remélem OverFL100 így megfelelő, még kell csiszolgatni"
 }
