@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/DavidZ1998/AeroTransit-Releases/releases/download/v1.3.0/AeroTransit-v1.3.0.apk",
-  "releaseNotes": "• Gyorsabb Nap/Hold tranzit számítás\n• Új katonai és különleges festés jelvények\n• Javított háttér TTS stabilitás meg talán már működik"
+  "versionCode": 5,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/DavidZ1998/AeroTransit-Releases/releases/download/v1.5.0/AeroTransit-v1.5.0.apk",
+  "releaseNotes": "• Gyorsabb Nap/Hold tranzit számítás\n• Remélem OverFL100 így megfelelő, még kell csiszolgatni"
 }
