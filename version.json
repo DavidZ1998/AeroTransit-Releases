@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "2.0.0",
-  "apkUrl": "https://github.com/DavidZ1998/AeroTransit-Releases/releases/download/v2.0.0/AeroTransit-v2.0.0.apk",
-  "releaseNotes": "• tudom hogy ezeket nem olvasod úgysem mert nem tudsz olvasni\n Gyorsabb Nap/Hold tranzit számítás\n• Remélem OverFL100 így megfelelő, még kell csiszolgatni, Zsiga remélem ezeket olvasod"
+  "versionCode": 11,
+  "versionName": "2.1.0",
+  "apkUrl": "https://github.com/DavidZ1998/AeroTransit-Releases/releases/download/v2.1.0/AeroTransit-v2.1.0.apk",
+  "releaseNotes": "• Nem tudom most olvasod-e, ide ilyen random marhaságokat szoktak írni tudod olyanokat hogy mit tud a program. \n Igazából semmit sem tud, ezt is csak azért írom hogy pazaroljam az időd olvasással. Legalább gyakorolod azt is. \n Gondoltam hogy írok egy hatalmas szöveget, de közben lefutott a build. Nem eresztem bő lére a dolgot."
 }
